@@ -1,0 +1,11 @@
+{
+  "id": "com.alvissmol.webapp",
+  "version": "1.0.0",
+  "vendor": "Alvissmol",
+  "type": "web",
+  "main": "index.html",
+  "title": "Alvissmol webOS",
+  "icon": "icon.png",
+  "largeIcon": "largeIcon.png",
+  "disableBackHistoryAPI": true
+}
